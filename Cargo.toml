@@ -1,0 +1,10 @@
+[package]
+name = "nft_launchpad"
+version = "0.1.0"
+edition = "2021"
+authors = ["Arriviste 1900017707@pku.edu.cn"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+web3 = "0.15.0"
